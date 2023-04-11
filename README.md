@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, eu sou Enzo Farias!</h1>
 <p align="center">👨‍💻 Desenvolvedor Web Full Stack</p>
-<p align="center">💚 Estou a cada dia dando meus passos na tecnologia buscando me manter atualizado</p>
+<p align="center">💚 Estou a cada dia meus passos na tecnologia buscando me manter atualizado</p>
 <br>
 <h3 align="center">Tecnologias e ferramentas:</h3>
 <p align="center">
